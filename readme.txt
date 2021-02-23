@@ -1,6 +1,6 @@
+https://light2dark.github.io/TuitionWebsite/
+
 This is a website I created for a tuition centre based on a template. Still required alot of work adjusting the HTML and CSS. JS and PHP forms will be edited later.
-
-
 
 Thank you for using our template!
 
